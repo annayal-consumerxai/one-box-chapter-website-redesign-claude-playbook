@@ -1,6 +1,6 @@
 # One Box, Then Chapters
 
-> By [An Nayal](https://annayal.com) · used at [Agniverse](https://agniverse.co) and [Handler](https://gethandler.ai) · more free tools at [annayal.com/open-source](https://annayal.com/open-source)
+> Built at [Agniverse](https://agniverse.co), by [An Nayal](https://annayal.com) · used at [Handler](https://gethandler.ai) · more free tools at [annayal.com/open-source](https://annayal.com/open-source)
 
 A free, open-source (MIT) Claude Code skill for rebuilding a product homepage: a small H1 that says what the product is, one box in the hero that lets a visitor try the product for free, then one-screen chapters that each show the product doing one thing. It ships as a sticky-cookie 50/50 A/B against your current homepage, under a page-weight budget, so the data picks the winner.
 
@@ -34,4 +34,6 @@ Then ask your agent to redesign your homepage, or to "do the one-box-chapters tr
 
 ## License
 
-MIT. Made by [Agniverse](https://agniverse.co), more free tools at [agniverse.co/open-source](https://agniverse.co/open-source).
+MIT. More free tools at [agniverse.co/open-source](https://agniverse.co/open-source).
+
+Built at [Agniverse](https://agniverse.co), by [An Nayal](https://annayal.com)
